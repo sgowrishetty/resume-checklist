@@ -4,30 +4,35 @@
 
 ## Template and Basics:
 
-- ✅ **Template Time:** Pick a snazzy resume template from [resumemaker.online](https://www.resumemaker.online/) or [this ATS-friendly one](https://www.indeed.com/career-advice/resumes-cover-letters/ats-resume-template).
+- ✅ **Template Time:** Pick an [Application Tracking System friendly template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx).
 - ✅ **Contact Info:** Include your mobile digits and a professional email. Skip the pigeon post address.
-- ✅ **Tailor-Made Summary:** Match the summary to the job description. Keep it peppy and not too Shakespearean.
+- ✅ **Tailor-Made Summary:** Align your summary with the job description. Write a mini-biography without sounding like a Shakespearean tragedy. Keep it peppy!
 - ✅ **One Page Wonder:** Keep it short and sweet. Your resume should be like a good joke – impactful and under one page.
-- ✅ **Keyword Couture:** Sprinkle in job description keywords for ATS friendliness.
-- ✅ **Company Charm:** Name-drop the company you're applying to. It's like whispering sweet nothings but for your resume.
+- ✅ **Keyword Couture:** Sprinkle in some job description keywords to make your resume play nice with the ATS. Yes, the robots are watching!
+- ✅ **Company Charm:** Mention the company you're applying to. It's like whispering sweet nothings for your resume.
 - ✅ **Lead with a Bang:** Your first resume item should scream, "I'm what you're looking for!" Set the tone!
 - ✅ **Title Triumph:** Make your experience titles pop with value.
 - ✅ **Link it Up:** Got an online presence? Slap that LinkedIn link on there. It's like a virtual handshake before the interview.
-- ✅ **Pronoun Patrol:** "I" is out; let your achievements do the talking.
-- ✅ **Buzzword Block:** Skip the buzzwords. Let your achievements speak louder than clichés.
-
-## Tech Tools for Job Seekers:
-
-- ✅ **Text File Test:** Export the resume text to a .txt file. No robo-confusion allowed.
-- ✅ **Font Finesse:** Stick to classic fonts for ATS friendliness.
-- ✅ **Simplicity Samba:** Keep formatting simple. The smoother, the better.
+- ✅ **Pronoun Patrol:** Avoid "I"; let your achievements do the talking.
+- ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés.
+- ✅ **Resume Word Limit Waltz:** Keep your resume between 400-600 words.
+- ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
+- ✅ **Font Finesse:** ATS bots are a bit traditional, so stick to classic fonts.
+- ✅ **Font Size Foxtrot:** Keep the size in the 10-12 range. No magnifying glasses needed.
+- ✅ **Text File Test:** Export the resume text to a .txt file; check for weird characters and symbols. No robo-confusion allowed.
+- ✅ **Verb Verve:** Power up with action words. Be the superhero your resume deserves!
+- ✅ **Quantify Quest:** Measure everything in impact. Quantify achievements but don't turn it into a math class. No one wants resume calculus.
+- ✅ **Skillful Showdown:** Showcase only the skills that are the heroes of the job description. Leave the extras in the Batcave.
+- ✅ **Section Selection:** Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
+- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. PRO TIP: If you are into LATEX use this [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) from John for easy customization.
+- ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
+- ✅ **In Summary:** Be the modern minimalist!
 
 ## Showcasing Your Brilliance:
 
 - ✅ **Certifications:** If you're certified, brag a bit. Professional certificates, not "World's Best Dancer."
-- ✅ **Contact Info Clarity:** Make it easy for recruiters. No magnifying glasses needed.
-- ✅ **Work Experience:** Your career journey—chronologically, not a time-travel adventure.
-- ✅ **Education:** Throw in academic details. No need for a dissertation on kindergarten achievements.
+- ✅ **Work Experience Waltz:** Your career journey—chronologically, not a time-travel adventure.
+- ✅ **Education Elegance:** Include academic details. No need for a dissertation on kindergarten achievements.
 
 ## Networking and Communication Mambo:
 
@@ -35,20 +40,15 @@
 
 ## Miscellaneous Mamba:
 
-- ✅ **Tool Tango:** Use tools like Jobscan and Resumeworded for optimal ATS performance.
 - ✅ **Apply Early Ballet:** Be the prima ballerina of applications – graceful, timely, and stealing the show.
 - ✅ **Follow-Up Flamenco:** Two follow-ups max. Don't be the stalker at the dance party.
-- ✅ **Cover Letter Carnival:** Craft a cover letter that's a party in prose.
+- ✅ **Cover Letter Carnival:** Craft a cover letter, make it [disruptive](https://www.indeed.com/career-advice/resumes-cover-letters/disruptive-cover-letter)
 
 ## Finishing Touches:
 
 - ✅ **Clean Up Your Digital Footprint:** Clear out social media posts that don't align with your professional image.
-- ✅ **LinkedIn Optimization Ballet:** Keep your LinkedIn profile in sync with your resume.
-- ✅ **Resume Word Limit Waltz:** Keep your resume between 400-600 words.
-- ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
-- ✅ **Jobscan Match Dance:** Before you hit the apply button, dance with Jobscan. Ensure your resume and the job listing are in perfect sync.
+- ✅ **LinkedIn Optimization Ballet:** Keep your LinkedIn profile in sync with your resume; we don't need an identity crisis.
+- ✅ **Tool Tango:** Before you hit the apply button, dance with tools like Jobscan or Resumeworded for optimal ATS performance. Ensure your resume and the job listing are in perfect sync.
+- ✅ **Fill all Fields:** Fill in all fields in the ATS system; some will penalize you for skipping.
 
-**Remember:** This checklist is my way of throwing some confetti into your job search. It's not a hiring decree, just a friendly favor. Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺🌟
-```
-
-Feel free to copy and paste this into your Markdown editor or LinkedIn post!
+**Remember:** This checklist is not a hiring decree, just a friendly favor. Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺
