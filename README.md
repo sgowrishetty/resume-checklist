@@ -1,144 +1,16 @@
-🚀 Job Search and Resume Checklist - Your GPS to Landing That Dream Job! 🌟
+Resume Checklist - Your GPS to Landing That Dream Job!
 
-BIG Disclaimer: I'm not a hiring guru or a recruitment wizard, just a fellow navigator in the vast sea of job opportunities. This is a personal collection of tips and tricks from various sources to help you sail smoothly through the job-hunting waters. Let's dive in!
+BIG Disclaimer: I'm not a hiring guru or a recruitment wizard, just a fellow navigator in the vast sea of job opportunities. This is a personal collection of tips to help you sail smoothly through the job-hunting waters. Let's dive in!
 
-
-
-Contact Information:
-
-✅ Include your digits and a professional email. Skip the pigeon post address.
-Resume Summary or Objective:
-
-✅ Write a mini-biography without sounding like a Shakespearean tragedy. Keep it peppy!
-Skills Section:
-
-✅ Flex your skills but skip the interpretive dance. ATS prefers straightforward lists.
-Work Experience:
-
-✅ Your career journey—chronologically, not a time-travel adventure.
-✅ Quantify achievements but don't turn it into a math class. No one wants resume calculus.
-Education:
-
-✅ Throw in your academic life details. No need for a dissertation on kindergarten achievements.
-Certifications (if applicable):
-
-✅ If you're certified, brag a bit. Just remember, we're talking professional certificates, not "World's Best Dancer."
-Keywords:
-
-✅ Sprinkle in keywords from the job description. Think of it as seasoning your resume stew.
-Formatting:
-
-✅ Keep it clean, not avant-garde. ATS is a bit traditional when it comes to design tastes.
-Font Choice:
-
-✅ Stick to the classics. Fonts shouldn’t be a wild fashion statement; it's not a resume runway.
-Bullet Points:
-
-✅ Use regular bullets. Save the fancy ones for your secret recipe, not your resume.
-File Format:
-
-✅ Save in a format ATS understands, not a secret code. No PDFs unless the job ad is demanding one.
-Customization:
-
-✅ Personalize for each job, like you're writing a different love letter each time. But keep it professional, Casanova.
-Review for Errors:
-
-✅ Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
-Length:
-
-✅ Be concise. Your resume isn't "War and Peace." One page is like a Tinder profile; just enough to swipe right.
-LinkedIn Profile:
-
-✅ Drop your LinkedIn link like a smooth pickup line. It's your online dating profile for jobs.
-Contacting You:
-
-✅ Make it easy for recruiters. If they need a magnifying glass or decoder ring, it's a problem.
-Section Headings:
-
-✅ Organize like a neat freak. Section headings are like signposts; don’t make it a scavenger hunt.
-
-
-
-
-
-Contact Information:
-✅ Include your full name, phone number, and professional email address at the top of the resume.
-✅ Omit unnecessary personal details like your home address.
-Resume Summary or Objective:
-
-✅ Craft a concise and compelling summary highlighting your key skills and experiences.
-✅ Tailor the summary to match the job description.
-Skills Section:
-
-✅ List relevant technical and soft skills.
-✅ Align skills with the keywords from the job listing.
-Work Experience:
-
-✅ Include your work experience in reverse chronological order.
-✅ Use bullet points to highlight achievements and responsibilities.
-✅ Quantify accomplishments with measurable metrics.
-Education:
-
-✅ List your educational background, starting with the most recent.
-✅ Include relevant details like degrees earned and graduation dates.
-Certifications (if applicable):
-
-✅ Include any relevant certifications, licenses, or professional development.
-Keywords:
-
-✅ Infuse relevant keywords from the job description throughout your resume.
-✅ Ensure a natural incorporation of keywords.
-Formatting:
-
-✅ Use a clean and professional resume template.
-✅ Keep formatting simple to ensure ATS readability.
-Font Choice:
-
-✅ Opt for standard and easily readable fonts (e.g., Arial, Calibri, Times New Roman).
-✅ Avoid decorative or complex fonts that may not be recognized by ATS.
-Bullet Points:
-
-✅ Use standard bullet points.
-✅ Avoid using special characters or symbols as bullet points.
-File Format:
-
-✅ Save your resume in a format compatible with ATS, such as Word (.doc or .docx) or a plain text file (.txt).
-✅ Avoid PDFs unless specified in the job application.
-Customization:
-
-✅ Tailor your resume for each job application.
-✅ Use specific keywords from the job listing.
-Review for Errors:
-
-✅ Proofread your resume for typos, grammatical errors, and formatting issues.
-✅ Ensure clarity and coherence in your content.
-Length:
-
-✅ Aim for a one-page resume if possible.
-✅ Include relevant details without unnecessary information.
-LinkedIn Profile:
-
-✅ Include a link to your LinkedIn profile if applicable.
-✅ Ensure consistency between your resume and LinkedIn.
-Contacting You:
-
-✅ Make it easy for employers to contact you based on the information provided.
-Section Headings:
-
-✅ Clearly label each section with standard headings (e.g., Work Experience, Education).
-
-
-
-
-
-
-
-Resume Writing:
 ✅ Template Time: Pick a snazzy resume template from resumemaker.online https://www.indeed.com/career-advice/resumes-cover-letters/ats-resume-template
+
+✅ Contact Info: Include your mobile digits and a professional email. Skip the pigeon post address.
+
+✅ Tailor made summary: Tailor the summary to match the job description. Write a mini-biography without sounding like a Shakespearean tragedy. Keep it peppy!
 
 ✅ One Page Wonder: Keep it short and sweet. Your resume should be like a good joke – impactful and under one page.
 
-✅ Keyword Couture: Sprinkle in some job description keywords to make your resume play nice with the Applicant Tracking System (ATS). Yes, the robots are watching!
+✅ Keyword Couture: Keywords are your seasoning. Sprinkle in some job description keywords to make your resume play nice with the Applicant Tracking System (ATS). Yes, the robots are watching! :
 
 ✅ Company Charm: Name-drop the company you're applying to. It's like whispering sweet nothings but for your resume.
 
@@ -154,21 +26,34 @@ Resume Writing:
 
 ✅ Verb Verve: Power up with action words. Be the superhero your resume deserves!
 
-✅ Quantify Quest: Measure everything in impact. Numbers are your sidekick in this superhero saga.
+✅ Quantify Quest: Measure everything in impact. Quantify achievements but don't turn it into a math class. No one wants resume calculus.
 
 ✅ Skillful Showdown: Showcase only the skills that are the heroes of the job description. Leave the extras in the Batcave.
 
 ✅ Section Selection: Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
 
-✅ Customization Cha-Cha: Customize for each job. Don't be the one doing the Macarena at a tango party.
+✅ Customize Casanova: Customize for each job, like you're writing a different love letter each time. But keep it professional, Casanova.
 
-✅ Typo Tango: Typos are like villains – nobody wants them around. Proofread like your arch-nemesis is lurking in every corner.
+✅ Typo Tango: Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
 
 ✅ File Format Fandango: Export the resume text to a .txt file and give it a look. Mae sure there are no special characters that can confuse the ATS bots. Nobody wants robo-confusion.
 
-✅ ATS-Friendly Font Finesse: Stick to well-known fonts. ATS systems appreciate clarity, not avant-garde font choices. 
+✅ Font Finesse: ATS is a bit traditional, so stick to the classics like Arial, Calibri, Cambria, Garamond and Georgia. Fonts shouldn’t be a wild fashion statement; it's not a resume runway. 
 
 ✅ Simplicity Samba: Keep formatting simple. Think of it as a dance – the smoother, the better.
+
+✅ Certications: If you're certified, brag a bit. Just remember, we're talking professional certificates, not "World's Best Dancer."
+
+✅ Contact Info: Make it easy for recruiters. If they need a magnifying glass or decoder ring, it's a problem.
+
+✅ Work Experience:: Your career journey—chronologically, not a time-travel adventure.
+
+✅ Education: Throw in your academic life details. No need for a dissertation on kindergarten achievements.
+
+Save in a format ATS understands, not a secret code. No PDFs unless the job ad is demanding one.
+
+Bullet Points:
+✅ Use regular bullets. Save the fancy ones for your secret recipe, not your resume.
 
 Networking and Communication Mambo:
 ✅ LinkedIn Love: Share, comment, connect – keep the LinkedIn dance alive. You're not a wallflower; you're the life of the professional party!
@@ -189,8 +74,6 @@ Remember, this checklist is my way of helping out. It's not a hiring decree, jus
 ✅ Strategic Samba: Craft emails that samba with interest after applying. It's your love letter to the hiring manager.
 
 Miscellaneous Mardi Gras:
-✅ Unemployment Umbrella: If you're in California, apply for unemployment. Think of it as your financial raincoat.
-
 ✅ Tool Twist: Use tools like Jobscan and Resumeworded for optimal ATS performance. It's like fine-tuning your resume for a grand carnival parade.
 
 ✅ Apply Early: Be the lead dancer – nimble, timely, and stealing the show.
