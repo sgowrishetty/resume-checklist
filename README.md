@@ -88,13 +88,7 @@ Miscellaneous Mardi Gras:
 
 ✅ Resume Word Limit Waltz: Keep your resume between 400-600 words. It's a short and sweet choreography of your career.
 
-✅ Buzzword Avoidance Boogie: Dance away from buzzwords. Let your achievements tango on the resume floor.
-
 ✅ Soft Skills Salsa: Highlight your soft skills. They are the graceful moves in your professional dance routine.
-
-✅ Metrics Measurement Mambo: Quantify your achievements. It's like adding beats to your professional rhythm.
-
-✅ ATS-Friendly Resume Tango: Dance with ATS-friendly resumes. Pick well-known fonts, keep it simple, and customize for each job. The resume waltz with ATS systems!
 
 ✅ Jobscan Match Dance: Before you hit the apply button, dance with Jobscan. Ensure your resume and the job listing are in perfect sync.
 
