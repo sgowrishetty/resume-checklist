@@ -5,7 +5,7 @@
 ## Template and Basics:
 
 - ✅ **Template Time:** Pick an [Application Tracking System friendly template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx).
-- ✅ **Contact Info:** Include your mobile digits and a professional email. Skip the pigeon post address.
+- ✅ **Contact Connection:** Include your mobile digits and a professional email. Skip the pigeon post address.
 - ✅ **Tailor-Made Summary:** Align your summary with the job description. Write a mini-biography without sounding like a Shakespearean tragedy. Keep it peppy!
 - ✅ **One Page Wonder:** Keep it short and sweet. Your resume should be like a good joke – impactful and under one page.
 - ✅ **Keyword Couture:** Sprinkle in some job description keywords to make your resume play nice with the ATS. Yes, the robots are watching!
@@ -15,7 +15,7 @@
 - ✅ **Link it Up:** Got an online presence? Slap that LinkedIn link on there. It's like a virtual handshake before the interview.
 - ✅ **Pronoun Patrol:** Avoid "I"; let your achievements do the talking.
 - ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés.
-- ✅ **Resume Word Limit Waltz:** Keep your resume between 400-600 words.
+- ✅ **Resume Word Limit Waltz:** Keep your resume between **475-600** words. Yes, it's been [researched](https://cultivatedculture.com/resume-statistics/)!
 - ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
 - ✅ **Font Finesse:** ATS bots are traditional, so stick to classic fonts.
 - ✅ **Font Size Foxtrot:** Keep the size in the 10-12 range. No magnifying glasses needed.
@@ -26,11 +26,11 @@
 - ✅ **Section Selection:** Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
 - ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. PRO TIP: If you are into LaTeX, use this [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) from John for easy customization.
 - ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
-- ✅ **In Summary:** Be the modern minimalist!
+- ✅ **Sum It Up in Style::** Keep it simple and impactful- be the modern minimalist!
 
 ## Showcasing Your Brilliance:
 
-- ✅ **Certifications:** If you're certified, brag a bit. Professional certificates, not "World's Best Dancer."
+- ✅ **Certification Celebration:** If you're certified, brag a bit. Professional certificates, not "World's Best Dancer."
 - ✅ **Work Experience Waltz:** Your career journey—chronologically, not a time-travel adventure.
 - ✅ **Education Elegance:** Include academic details. No need for a dissertation on kindergarten achievements.
 
@@ -46,9 +46,9 @@
 
 ## Finishing Touches:
 
-- ✅ **Clean Up Your Digital Footprint:** Clear out social media posts that don't align with your professional image.
+- ✅ **Polish Your Online Presence:** Clear out social media posts that don't align with your professional image.
 - ✅ **LinkedIn Optimization Ballet:** Keep your LinkedIn profile in sync with your resume; we don't need an identity crisis.
 - ✅ **Tool Tango:** Before you hit the apply button, dance with [Jobscan](https://www.jobscan.co/) for optimal ATS performance. Ensure your resume and the job listing are in perfect sync.
-- ✅ **Fill All Fields:** Fill in all fields in the ATS system; some will penalize you for skipping.
+- ✅ **Unlock Every Opportunity:** Don't leave any field behind in the ATS system. Some will penalize you for skipping.
 
 **Remember:** This checklist is not a hiring decree, just a friendly favor. Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺
