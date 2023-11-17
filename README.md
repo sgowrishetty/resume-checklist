@@ -17,14 +17,14 @@
 - ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés.
 - ✅ **Resume Word Limit Waltz:** Keep your resume between 400-600 words.
 - ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
-- ✅ **Font Finesse:** ATS bots are a bit traditional, so stick to classic fonts.
+- ✅ **Font Finesse:** ATS bots are traditional, so stick to classic fonts.
 - ✅ **Font Size Foxtrot:** Keep the size in the 10-12 range. No magnifying glasses needed.
 - ✅ **Text File Test:** Export the resume text to a .txt file; check for weird characters and symbols. No robo-confusion allowed.
 - ✅ **Verb Verve:** Power up with action words. Be the superhero your resume deserves!
 - ✅ **Quantify Quest:** Measure everything in impact. Quantify achievements but don't turn it into a math class. No one wants resume calculus.
 - ✅ **Skillful Showdown:** Showcase only the skills that are the heroes of the job description. Leave the extras in the Batcave.
 - ✅ **Section Selection:** Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
-- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. PRO TIP: If you are into LATEX use this [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) from John for easy customization.
+- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. PRO TIP: If you are into LaTeX, use this [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) from John for easy customization.
 - ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
 - ✅ **In Summary:** Be the modern minimalist!
 
@@ -48,7 +48,7 @@
 
 - ✅ **Clean Up Your Digital Footprint:** Clear out social media posts that don't align with your professional image.
 - ✅ **LinkedIn Optimization Ballet:** Keep your LinkedIn profile in sync with your resume; we don't need an identity crisis.
-- ✅ **Tool Tango:** Before you hit the apply button, dance with tools like Jobscan or Resumeworded for optimal ATS performance. Ensure your resume and the job listing are in perfect sync.
-- ✅ **Fill all Fields:** Fill in all fields in the ATS system; some will penalize you for skipping.
+- ✅ **Tool Tango:** Before you hit the apply button, dance with [Jobscan](https://www.jobscan.co/) for optimal ATS performance. Ensure your resume and the job listing are in perfect sync.
+- ✅ **Fill All Fields:** Fill in all fields in the ATS system; some will penalize you for skipping.
 
 **Remember:** This checklist is not a hiring decree, just a friendly favor. Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺
