@@ -4,15 +4,15 @@
 
 ## Template and Basics:
 
-- ✅ **Template Time:** Pick an Application Tracking System(ATS) friendly [template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx).
+- ✅ **Template Time:** Choose an Application Tracking System(ATS) friendly [template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx); your resume deserves smooth sailing.
 - ✅ **Contact Connection:** Include your mobile digits and a professional email. Skip the pigeon post address.
-- ✅ **Tailor-Made Summary:** Align your summary with the job description. Write a mini-biography without sounding like a Shakespearean tragedy.
+- ✅ **Tailor-Made Summary:** Craft a mini-biography in sync with the job description; Shakespearean drama not required.
 - ✅ **One Page Wonder:** Keep it short and sweet. Your resume should be like a good joke – impactful and under one page.
-- ✅ **Keyword Couture:** Sprinkle in some job description keywords to make your resume play nice with the ATS. Yes, the bots are watching!
+- ✅ **Keyword Couture:** Sprinkle job description keywords; ATS bots are watching!
 - ✅ **Company Charm:** Mention the company you're applying to. It's like whispering sweet nothings for your resume.
-- ✅ **Lead with a Bang:** Your first resume item should scream, "I'm what you're looking for!" Set the tone!
-- ✅ **Title Triumph:** Make your experience titles pop with value.
-- ✅ **Link it Up:** Got an online presence? Slap that LinkedIn and github link on there. It's like a virtual handshake before the interview.
+- ✅ **Lead with a Bang:** Make your first resume item scream, "I'm what you're looking for!" Set the tone!
+- ✅ **Title Triumph:** Pop those experience titles with value.
+- ✅ **Link it Up:** Got an online presence? Slap that LinkedIn and GitHub link on there. It's like a virtual handshake before the interview.
 - ✅ **Pronoun Patrol:** Avoid "I"; let your achievements do the talking.
 - ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés.
 - ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
@@ -21,9 +21,9 @@
 - ✅ **Text File Test:** Export the resume text to a .txt file; check for weird characters and symbols. No robo-confusion allowed.
 - ✅ **Verb Verve:** Power up with action words. Be the superhero your resume deserves!
 - ✅ **Quantify Quest:** Measure everything in impact. Quantify achievements but don't turn it into a math class. No one wants resume calculus.
-- ✅ **Skillful Showdown:** Showcase only the skills that are the heroes of the job description. Leave the extras in the Batcave.
+- ✅ **Skillful Showdown:** Showcase only the skills that are the heroes of the job description. Leave the extras in the Bat-cave.
 - ✅ **Section Selection:** Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
-- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. PRO TIP: If you are into LaTeX, use this [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) from John for easy customization.
+- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. LaTeX lovers, John's got your back with this neat [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) for easy customization.
 - ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
 - ✅ **Modern Minimalist:** Keep your resume between **475-600** words. Yes, it's been [researched](https://cultivatedculture.com/resume-statistics/)!
 
@@ -51,6 +51,6 @@
 - ✅ **LinkedIn Optimization Ballet:** Keep your LinkedIn profile in sync with your resume; we don't want an identity crisis.
 - ✅ **Tool Tango:** Before you hit the apply button, dance with [Jobscan](https://www.jobscan.co/) for optimal ATS performance.
 - ✅ **No Field Left Behind:** Don't leave any field behind in the ATS system. Some will penalize you for skipping.
-- ✅ **Apply Apply Apply:** It's a numbers game, click apply!
+- ✅ **Apply Apply Apply:** It's a numbers game; click apply!
 
-**Remember:** This checklist is not a hiring decree, just a friendly favor. One thing may not get you a job, but a 100 little things may! Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺
+**Keep in mind:** This checklist isn't a job offer; it's more like a helpful hand. A single action might not secure you a job, but the cumulative effect of numerous thoughtful details could be the key to success!  Now, put on your dancing shoes, and let's choreograph your career success! 💃🕺
