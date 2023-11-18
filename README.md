@@ -14,7 +14,7 @@
 - ✅ **Title Triumph:** Pop those experience titles with value.
 - ✅ **Link it Up:** Got an online presence? Slap that LinkedIn and GitHub link on there. It's like a virtual handshake before the interview.
 - ✅ **Pronoun Patrol:** Avoid "I"; let your achievements do the talking.
-- ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés.
+- ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés. Folks at ResumeWorded identified some common [Buzzwords and clichés](https://resumeworded.com/resume-buzzwords-and-cliches-key-advice) to avoid, weed them out!
 - ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
 - ✅ **Font Finesse:** ATS bots are traditional, so stick to classic fonts.
 - ✅ **Font Size Foxtrot:** Keep the size in the 10-12 range. No magnifying glasses needed.
