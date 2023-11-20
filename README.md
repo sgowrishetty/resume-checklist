@@ -23,7 +23,7 @@
 - ✅ **Quantify Quest:** Measure everything in impact. Quantify achievements but don't turn it into a math class. No one wants resume calculus.
 - ✅ **Skillful Showdown:** Showcase only the skills that are the heroes of the job description. Leave the extras in the Bat-cave.
 - ✅ **Section Selection:** Keep only the impressive sections – Experience, Projects, Education, and Technical Skills. It's a resume, not a novel.
-- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. LaTeX lovers, John's got your back with this neat little [tool](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) for easy customization.
+- ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. LaTeX lovers, John's got your back with this neat little [workflow](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) for easy customization.
 - ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
 - ✅ **Modern Minimalist:** Keep your resume between **475-600** words. Yes, it's been [researched](https://cultivatedculture.com/resume-statistics/)!
 
