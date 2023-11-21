@@ -5,6 +5,7 @@
 ## Template and Basics:
 
 - ✅ **Template Time:** Choose an Application Tracking System(ATS) friendly [template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx); your resume deserves smooth sailing.
+- ✅ **No Headers No Footers:** Skip them; let your skills and experience take center stage!
 - ✅ **Contact Connection:** Include your mobile digits and a professional email. Skip the pigeon post address.
 - ✅ **Tailor-Made Summary:** Craft a mini-biography in sync with the job description; Shakespearean drama not required.
 - ✅ **One Page Wonder:** Keep it short and sweet. Your resume should be like a good joke – impactful and under one page.
@@ -16,7 +17,7 @@
 - ✅ **Pronoun Patrol:** Avoid "I"; let your achievements do the talking.
 - ✅ **Buzzword Block:** Buzzwords are so last season. Let your achievements speak louder than clichés. Folks at ResumeWorded identified some common [Buzzwords and clichés](https://resumeworded.com/resume-buzzwords-and-cliches-key-advice) to avoid, weed them out!
 - ✅ **Soft Skills Salsa:** Highlight your soft skills – the graceful moves in your professional dance routine.
-- ✅ **Font Finesse:** ATS bots are traditional, so stick to classic fonts.
+- ✅ **Font Finesse:** ATS bots are traditional, so stick to classic fonts like Arial, Calibri, Cambria, Garamond and Georgia.
 - ✅ **Font Size Foxtrot:** Keep the size in the 10-12 range. No magnifying glasses needed.
 - ✅ **Text File Test:** Export the resume text to a .txt file; check for weird characters and symbols. No robo-confusion allowed.
 - ✅ **Verb Verve:** Power up with action words. Be the superhero your resume deserves!
@@ -26,6 +27,7 @@
 - ✅ **Customize Customize Customize:** Customize for each job, like you're writing a different love letter each time. LaTeX lovers, John's got your back with this neat little [workflow](https://www.linkedin.com/pulse/create-perfect-resume-each-application-using-latex-git-john-rodgers-zbh9f/) for easy customization.
 - ✅ **Typo Tango:** Proofread like your English teacher is watching. Typos are like spinach in your teeth during a date.
 - ✅ **Modern Minimalist:** Keep your resume between **475-600** words. Yes, it's been [researched](https://cultivatedculture.com/resume-statistics/)!
+- ✅ **Humans Still Rule:** Remember, ChatGPT is a supplement, not a replacement in creating your resume. Your personal touch counts!
 
 ## Showcasing Your Brilliance:
 
