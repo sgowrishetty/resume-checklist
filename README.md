@@ -4,7 +4,7 @@
 
 ## Template and Basics:
 
-- ✅ **Template Time:** Choose an Application Tracking System(ATS) friendly [template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx); your resume deserves smooth sailing.
+- ✅ **Template Time:** Choose an Applicant Tracking System(ATS) friendly [template](https://assets.ctfassets.net/pdf29us7flmy/6NLdBCISS0n7kzd0UZQqVS/aa489033ab3d9d9a47cb845251dd481f/ATS_Resume_Template.docx); your resume deserves smooth sailing.
 - ✅ **No Headers No Footers:** Skip them; let your skills and experience take center stage!
 - ✅ **Contact Connection:** Include your mobile digits and a professional email. Skip the pigeon post address.
 - ✅ **Tailor-Made Summary:** Craft a mini-biography in sync with the job description; Shakespearean drama not required.
